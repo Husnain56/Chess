@@ -38,6 +38,8 @@ Winner Display: The winner is displayed on the side of the screen at the end of 
 
 Timer: A timer keeps track of the game duration, adding an element of time management.
 
+The game handles moves of all types of pieces and the special moves such as pawn promotion , checks, pins , stalemate and checkmate.
+
 # HOW TO PLAY
 
 White pieces always make the first move, and players take turns commanding their unique pieces. To move, simply click a piece and then the square you want it to occupy. Outsmart your opponent and deliver checkmate! Checkmate happens when their king is under direct attack (in check) with no escape. Remember, capturing enemy pieces along the way can give you a strategic advantage. 
