@@ -20,7 +20,7 @@ Play a classic game of chess built using the SFML library at Fast Nuces Lahore ,
 
 --> If you just want to play the game ,you can just download the Play Game folder from here and then: 
 
-Play Game Folder -> run the chess game.exe file :)
+Run the chess game.exe file in that folder :)
 
 # INSTALLATION
 
