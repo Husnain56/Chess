@@ -6,6 +6,8 @@ Play a classic game of chess built using the SFML library at Fast Nuces Lahore ,
 
 # TABLE OF CONTENTS
 
+-Game Screenshots
+
 -How to Play
 
 -Installation
