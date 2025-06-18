@@ -28,8 +28,13 @@ Play a classic game of chess built using the SFML library at Fast Nuces Lahore ,
 
 ![image](https://github.com/user-attachments/assets/082eedc4-a971-46f9-a5ad-71ae587b780b)
 
+![image](https://github.com/user-attachments/assets/ada27047-80ac-4d55-92b1-dd3b5c31e817)
 
+![image](https://github.com/user-attachments/assets/bae43ef5-59bc-4987-8db3-3e581d606bce)
 
+![image](https://github.com/user-attachments/assets/e79f55a8-fabd-4869-a457-69a622201cc3)
+
+![image](https://github.com/user-attachments/assets/9454aaa6-4735-4d97-9f3a-7004b102da3e)
 
 # HOW TO PLAY
 
