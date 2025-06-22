@@ -2,7 +2,7 @@
 
 # Description
 
-Play a classic game of chess built using the SFML library at Fast Nuces Lahore , Collaboratively completed with my project partner, showcasing advanced C++ features like pointers , dynamic memory and OOP features such as objects , abstraction , classes, inheritance. Each piece is a class that inherits from a base piece class, allowing for flexible behavior. The game is designed with clear, organized code, making it easy to maintain and enjoyable to play. Experience smooth gameplay with a strong foundation in modern programming techniques.
+Play a classic game of chess built using the SFML library , Collaboratively completed with my project partner, showcasing advanced C++ features like pointers , dynamic memory and OOP features such as objects , abstraction , classes, inheritance. Each piece is a class that inherits from a base piece class, allowing for flexible behavior. The game is designed with clear, organized code, making it easy to maintain and enjoyable to play. Experience smooth gameplay with a strong foundation in modern programming techniques.
 
 # TABLE OF CONTENTS
 
